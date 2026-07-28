@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+src/canonical/model.py
+src/document_delta_chat.egg-info/PKG-INFO
+src/document_delta_chat.egg-info/SOURCES.txt
+src/document_delta_chat.egg-info/dependency_links.txt
+src/document_delta_chat.egg-info/requires.txt
+src/document_delta_chat.egg-info/top_level.txt
+src/ingest/__init__.py
+src/ingest/base.py
+src/observability/logging.py
+src/observability/metrics.py
+src/observability/tracing.py
