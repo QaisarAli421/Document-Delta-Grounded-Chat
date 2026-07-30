@@ -78,7 +78,7 @@ class Tracer:
         pass
 
 
-class trace:
+class Trace:
     """Decorator and context manager for tracing."""
 
     def __init__(self, name: str):

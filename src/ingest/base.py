@@ -3,7 +3,6 @@
 from __future__ import annotations
 
 import hashlib
-from abc import ABC, abstractmethod
 from pathlib import Path
 from typing import Any, Protocol
 

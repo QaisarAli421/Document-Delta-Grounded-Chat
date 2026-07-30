@@ -1,13 +1,10 @@
 """Tests for logging module."""
 
 import json
-import logging
 from io import StringIO
 from unittest.mock import patch
 
-import structlog
-
-from src.observability.logging import setup_logging, get_logger
+from src.observability.logging import get_logger, setup_logging
 
 
 def test_setup_logging() -> None:

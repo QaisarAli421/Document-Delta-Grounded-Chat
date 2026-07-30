@@ -1,6 +1,6 @@
 """Prometheus metrics registry stub."""
 
-from prometheus_client import Counter, Gauge, Histogram, CollectorRegistry
+from prometheus_client import CollectorRegistry, Counter, Gauge, Histogram
 
 # Create a custom registry
 registry = CollectorRegistry()

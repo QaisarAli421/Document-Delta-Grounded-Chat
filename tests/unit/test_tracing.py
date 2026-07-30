@@ -3,9 +3,9 @@
 from src.observability.tracing import (
     Span,
     Tracer,
-    trace,
-    get_current_span,
     generate_id,
+    get_current_span,
+    trace,
 )
 
 
